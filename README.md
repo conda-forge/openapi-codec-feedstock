@@ -1,6 +1,9 @@
 About openapi-codec-feedstock
 =============================
 
+> [!WARNING]
+> **openapi-codec is no longer maintained upstream.** The upstream repository [core-api/python-openapi-codec](https://github.com/core-api/python-openapi-codec) is archived on GitHub, and the last release was 1.3.2 on 2017-07-19. This feedstock stays available for existing users, but no new versions are expected.
+
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/openapi-codec-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/core-api/python-openapi-codec/
